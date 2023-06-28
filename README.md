@@ -1,3 +1,3 @@
-# #golden-tiger/javascript-package-template
+# @golden-tiger/vue-renderer
 
-JavaScript Package Template
+Use JSON configuration to render Vue component recursively.
